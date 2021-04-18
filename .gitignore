@@ -3,4 +3,5 @@ core/build/
 periphery/node_modules/
 periphery/build/
 uniswap-v2-core/
-uniswap-v2-periphery
+uniswap-v2-periphery/
+
